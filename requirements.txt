@@ -1,0 +1,23 @@
+#huggingface
+#huggingface_hub
+datasets
+transformers
+
+#pytorch with cuda
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch 
+torchvision 
+ --index-url https://download.pytorch.org/whl/cu118
+
+tqdm
+opencv-python
+numpy
+matplotlib
+Pillow
+pandas
+nltk
+
+
+# Other dependencies
+# OpenAI CLIP
+git+https://github.com/openai/CLIP.git
