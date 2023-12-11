@@ -16,7 +16,7 @@ matplotlib
 Pillow
 pandas
 nltk
-
+jupyterlab
 
 # Other dependencies
 # OpenAI CLIP
